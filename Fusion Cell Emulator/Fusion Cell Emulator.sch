@@ -2531,6 +2531,6 @@ F 1 "JST-XH" V 1400 6850 50  0000 C CNN
 F 2 "Connector_JST:JST_XH_B11B-XH-A_1x11_P2.50mm_Vertical" H 1300 6850 50  0001 C CNN
 F 3 "~" H 1300 6850 50  0001 C CNN
 	1    1300 6850
-	-1   0    0    1   
+	-1   0    0    -1  
 $EndComp
 $EndSCHEMATC
